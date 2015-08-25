@@ -3,11 +3,13 @@
   "version": "1.0.0",
   "description": "Stuff",
   "repository": "https://github.com/mikebell/bluewave",
+  "license": "GPL",
+  "README": "See README",
   "devDependencies": {
     "grunt": "~0.4.5",
-    "matchdep": "~0.3.0",
+    "grunt-contrib-watch": "^0.6.1",
     "grunt-express": "~1.4.1",
-    "grunt-contrib-watch": "~0.6.1",
-    "grunt-open": "~0.2.1"
+    "grunt-open": "~0.2.1",
+    "matchdep": "~0.3.0"
   }
 }
